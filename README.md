@@ -26,4 +26,4 @@ existsFromDate: 2016-12-11T00:00:00
 
 ## License
 The contents within this repository is distributed under the "CC0 1.0" license. 
-For further details please read the [LICENSE](https://github.com/vasttrafik/open-data/LICENSE) file.
+For further details please read the [LICENSE](https://github.com/vasttrafik/open-data/blob/master/LICENSE) file.
