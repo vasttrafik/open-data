@@ -6,7 +6,8 @@ This project contains the actual line registry data for Västtrafik, in the JSON
 
 
 ### Line registry data Example:
-'''
+
+```
 directionsOfLine {1}
 designation:	10
 number:	6810
@@ -20,8 +21,9 @@ operators {1}
 transportAuthority:	Västtrafik
 backgroundColorHTML:	00A5DC
 existsFromDate: 2016-12-11T00:00:00
-'''
+```
 
 
 ## License
-The contents within this repository is distributed under the "CC0 1.0" license. For further details please read the [LICENSE] (LICENSE.md) file.
+The contents within this repository is distributed under the "CC0 1.0" license. 
+For further details please read the [LICENSE](LICENSE.md) file.
