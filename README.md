@@ -30,7 +30,4 @@ For further details please read the [LICENSE](https://github.com/vasttrafik/open
 
 ## Contact Us
 
-For any further inquires about the line registry data please feel free to [contact us](mailto:api@Vasttrafik.se?subject=Line%20Registry%20Query). 100
-
-
- 
+For any further inquires about the line registry data please feel free to [contact us](mailto:api@Vasttrafik.se?subject=Line%20Registry%20Query). 
